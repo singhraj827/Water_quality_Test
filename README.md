@@ -1,4 +1,4 @@
-Predict if water is safe for human consumption or not
+**Predict if water is safe for human consumption or not**
 
 ph: pH of 1. water (0 to 14).
 Hardness: Capacity of water to precipitate soap in mg/L.
